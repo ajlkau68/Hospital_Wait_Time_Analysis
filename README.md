@@ -194,11 +194,11 @@ Contributions are welcome! To contribute:
 ## Screenshots
 
 ### Dashboard Overview
-![Blue Hart Hospital Dashboard](path-to-your-image/Blue-Hart-Dashboard.png)
+![Blue Hart Hospital Dashboard](assets/Blue-Hart-Dashboard.png)
 
 ### Sample Visualizations
 - **Patient Count by Day:**
-  ![Patient Count](path-to-your-image/Patient-Count.png)
+  ![Patient Count](assets/Patient-Count.png)
 
 - **Wait Time per Hour:**
-  ![Wait Time per Hour](path-to-your-image/Wait-Time.png)
+  ![Wait Time per Hour](assets/Wait-Time.png)
