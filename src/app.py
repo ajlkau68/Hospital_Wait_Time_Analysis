@@ -5,7 +5,7 @@ from data.loader import load_data
 from data.source import DataSource
 
 
-DATA_PATH = "data./hospital_data_full.csv"
+DATA_PATH = "hospital_data_full.csv"
 
 data = load_data(DATA_PATH)
 data = DataSource(data)
