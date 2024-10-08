@@ -191,8 +191,6 @@ Contributions are welcome! To contribute:
 4. Push to your branch (`git push origin feature-name`).
 5. Open a Pull Request.
 
----
-
 ## Screenshots
 
 ### Dashboard Overview
