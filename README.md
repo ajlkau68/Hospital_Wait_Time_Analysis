@@ -194,11 +194,11 @@ Contributions are welcome! To contribute:
 ## Screenshots
 
 ### Dashboard Overview
-![Blue Hart Hospital Dashboard](assets/Blue-Hart-Dashboard.png)
+![Blue Hart Hospital Dashboard](https://github.com/ajlkau68/Hospital_Wait_Time_Analysis/blob/main/src/assets/Blue-Hart-Dashboard.png)
 
 ### Sample Visualizations
 - **Patient Count by Day:**
-  ![Patient Count](assets/Patient-Count.png)
+  ![Patient Count](https://github.com/ajlkau68/Hospital_Wait_Time_Analysis/blob/main/src/assets/patient-count-per-day.png)
 
 - **Wait Time per Hour:**
-  ![Wait Time per Hour](assets/Wait-Time.png)
+  ![Wait Time per Hour](https://github.com/ajlkau68/Hospital_Wait_Time_Analysis/blob/main/src/assets/wait-time-per-hour.png)
