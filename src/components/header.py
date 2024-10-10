@@ -9,6 +9,6 @@ def create_header(app:Dash) -> html.Div:
             html.Img(src='assets/hospital-logo.jpeg', height='50px'),
             html.H5('Blue Hart Hospital', style={'textAlign':'left', 'color':'white'}, className='ms-1'),
             html.H3(app.title, style={'textAlign':'center', 'color':'white'}, className='ms-auto'),
-            dbc.Button('Learn More', color='secondary', outline=True, className='ms-auto')
+            dbc.Button('Learn More', color='secondary', outline=True, className='ms-auto', href='https://ajlkau68.github.io/James_Portfolio/')
         ], className='hstack gap-3'
     )
